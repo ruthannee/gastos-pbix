@@ -1,5 +1,7 @@
 # gastos-pbix
 
+Um dashboard automatizado para controle financeiro, podendo ser fomentado através de bases compostas por data, categoria de gastos (serviços, transporte, saúde, ...) e valores, com a extração, transformação e carga já realizadas.
+
 ## Informações exibidas:
 * GASTOS: total de gastos (soma);
 * MÉDIA: média de gastos (média);
